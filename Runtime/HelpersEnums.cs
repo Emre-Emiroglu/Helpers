@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HMHelpers.Runtime
+namespace Helpers.Runtime
 {
     public enum PiecesFindingTypes
     {

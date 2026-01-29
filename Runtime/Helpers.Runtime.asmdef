@@ -1,6 +1,6 @@
 {
-    "name": "HMHelpers.Runtime",
-    "rootNamespace": "HMHelpers.Runtime",
+    "name": "Helpers.Runtime",
+    "rootNamespace": "Helpers.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

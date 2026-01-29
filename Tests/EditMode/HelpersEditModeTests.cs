@@ -1,7 +1,7 @@
-﻿using HMHelpers.Runtime;
+﻿using Helpers.Runtime;
 using NUnit.Framework;
 
-namespace HMHelpers.Tests.EditMode
+namespace Helpers.Tests.EditMode
 {
     public sealed class HelpersEditModeTests
     {

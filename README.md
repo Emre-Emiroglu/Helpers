@@ -1,10 +1,8 @@
-<img src="icon.jpg" width="512" height="512" alt="HMHelpers Logo">
-
-# HMHelpers
+# Helpers
 HMHelpers is a helper package designed to streamline common tasks in Unity projects. It offers various helper functions for tasks like handling contact events, managing countdowns, applying explosion effects, following objects, rotating objects, and implementing slow motion. This package aims to make Unity development faster and easier by providing essential tools right out of the box.
 
 ## Features
-HMHelpers offers the following capabilities:
+Helpers offers the following capabilities:
 * Contact Handling: Abstract base class and concrete implementations for managing 2D and 3D collision and trigger events with tag filtering and callbacks.
 * Countdown Timer: A flexible countdown timer class with pause, resume, and value manipulation functionalities, including optional unscaled time updates and end callbacks.
 * Explosion Effects: A component to apply explosion forces to nearby rigidbodies and optionally refresh them to their original positions with smooth or instant transitions.
@@ -15,11 +13,11 @@ HMHelpers offers the following capabilities:
 ## Getting Started
 Install via UPM with git URL
 
-`https://github.com/Emre-Emiroglu/HMHelpers.git`
+`https://github.com/Emre-Emiroglu/Helpers.git`
 
 Clone the repository
 ```bash
-git clone https://github.com/Emre-Emiroglu/HMHelpers.git
+git clone https://github.com/Emre-Emiroglu/Helpers.git
 ```
 This project is developed using Unity version 6000.0.42f1.
 

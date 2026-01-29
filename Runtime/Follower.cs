@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMHelpers.Runtime
+namespace Helpers.Runtime
 {
     /// <summary>
     /// A class that handles following the target's position and rotation with specified lerping options.

@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Reflection;
-using HMHelpers.Runtime;
+using Helpers.Runtime;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace HMHelpers.Tests.PlayMode
+namespace Helpers.Tests.PlayMode
 {
     public sealed class HelpersPlayModeTests
     {

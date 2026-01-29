@@ -1,8 +1,8 @@
 {
-  "name": "com.emreemiroglu.hmhelpers",
+  "name": "com.emreemiroglu.helpers",
   "version": "1.0.0",
-  "displayName": "HMHelpers",
-  "description": "HMHelpers is a Unity package that provides useful utilities to make game development faster and easier. Designed to work with both 2D and 3D games, it helps developers save time.",
+  "displayName": "Helpers",
+  "description": "Helpers is a Unity package that provides useful utilities to make game development faster and easier. Designed to work with both 2D and 3D games, it helps developers save time.",
   "author": {
     "name": "Emre Emiroglu",
     "email": "emirogluemre08@gmail.com",
@@ -14,6 +14,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Emre-Emiroglu/HMHelpers.git"
+    "url": "https://github.com/Emre-Emiroglu/Helpers.git"
   }
 }

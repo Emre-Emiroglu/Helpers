@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace HMHelpers.Runtime
+namespace Helpers.Runtime
 {
     /// <summary>
     /// A countdown timer class that handles countdown logic with optional pause functionality.
@@ -44,7 +44,7 @@ namespace HMHelpers.Runtime
         }
         #endregion
 
-        #region Execytes
+        #region Executes
         /// <summary>
         /// Pauses or resumes the countdown.
         /// </summary>

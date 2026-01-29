@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMHelpers.Runtime
+namespace Helpers.Runtime
 {
     /// <summary>
     /// A class that handles slow motion functionality by adjusting the timescale and fixed delta time.

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMHelpers.Runtime
+namespace Helpers.Runtime
 {
     /// <summary>
     /// A class for handling 2D contact events (collisions or triggers).
