@@ -1,5 +1,5 @@
 # Helpers
-HMHelpers is a helper package designed to streamline common tasks in Unity projects. It offers various helper functions for tasks like handling contact events, managing countdowns, applying explosion effects, following objects, rotating objects, and implementing slow motion. This package aims to make Unity development faster and easier by providing essential tools right out of the box.
+Helpers is a helper package designed to streamline common tasks in Unity projects. It offers various helper functions for tasks like handling contact events, managing countdowns, applying explosion effects, following objects, rotating objects, and implementing slow motion. This package aims to make Unity development faster and easier by providing essential tools right out of the box.
 
 ## Features
 Helpers offers the following capabilities:
